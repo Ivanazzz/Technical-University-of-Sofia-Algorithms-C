@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669224938 source:c:\users\ivana\desktop\algorithmswithc\task-32\main.c
+	<stdio.h>
+	<stdlib.h>
+
